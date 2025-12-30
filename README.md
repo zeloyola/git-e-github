@@ -37,3 +37,19 @@ Usar:
 ##### Título (Nívwl 5) #*5
 ###### Título (Nível 6) #*6
 
+---
+## Criar linhas orinzontais
+
+Basta usar uma sequencia de 3 vezes (*) ou 3 vezes (-)
+
+---
+## Negrito com Itálico
+
+Usar: __* *__ <br>
+Exeplo: 
+
+Me dê um __*cre*__
+
+---
+
+
