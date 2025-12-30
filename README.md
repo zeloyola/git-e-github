@@ -3,7 +3,7 @@ Criando um pequeno ropositório para aprender mais sobre o Git e GitHub
 ***
  # NEGRITO
  
- Usar: ** ** ou __ __
+ Usar: ** ** ou __ __ <br>
  Exemplo: 
 
  Olha o meu **cabelo**
