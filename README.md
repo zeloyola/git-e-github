@@ -45,7 +45,7 @@ Basta usar uma sequencia de 3 vezes (*) ou 3 vezes (-)
 ---
 ## Negrito com Itálico
 
-Usar: "__* *__" <br>
+Usar: __* *__ <br>
 Exemplo: 
 
 Me dê um __*cre*__
